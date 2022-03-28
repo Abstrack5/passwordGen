@@ -79,7 +79,7 @@ var generateBtn = document.querySelector("#generate");
 function writePassword() {
   setPasswordCriteria();
   var password = generatePassword();
-  var passwordText = document.getElementById("password");
+  var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
 }
