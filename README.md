@@ -6,9 +6,9 @@ https://abstrack5.github.io/passwordGen/
 Are you tired of having to create a password and not able to meet the criteria? Well not no more! The password gen is the answer to all your password creating problems! just enter how long you would like your password, the chracters youd like and BOOM youve got a completely random password never used before!
 
 ## Technologies
-HTML
-CSS
-Javascript
+#HTML
+#CSS
+#Javascript
 
 ## Preview
 ![password gen](https://user-images.githubusercontent.com/100798134/161136445-979308c8-ceee-4261-9663-bc5da6ded5e7.JPG)
